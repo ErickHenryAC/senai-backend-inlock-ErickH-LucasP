@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\Desktop\\senai-backend-inlock-LucasP-ErickH\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj": {}
+    "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\senai-backend-inlock-ErickH-LucasP\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\Desktop\\senai-backend-inlock-LucasP-ErickH\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj": {
+    "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\senai-backend-inlock-ErickH-LucasP\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\senai-backend-inlock-LucasP-ErickH\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\senai-backend-inlock-ErickH-LucasP\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj",
         "projectName": "Senai.InLock.WebApi",
-        "projectPath": "C:\\Users\\PICHAU\\Desktop\\senai-backend-inlock-LucasP-ErickH\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj",
-        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Desktop\\senai-backend-inlock-LucasP-ErickH\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\senai-backend-inlock-ErickH-LucasP\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\Senai.InLock.WebApi.csproj",
+        "packagesPath": "C:\\Users\\erick.h.apaza.conde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erick.h.apaza.conde\\Documents\\GitHub\\senai-backend-inlock-ErickH-LucasP\\Senai.InLock.WebApi\\Senai.InLock.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erick.h.apaza.conde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
